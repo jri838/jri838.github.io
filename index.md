@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Prácticas de Herramientas y Métodos de la Ingeniería del Software en la Universidad de Almería
 
-You can use the [editor on GitHub](https://github.com/jri838/jri838.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Esta es la página de progreso de prácticas de Herramientas y Métodos de la Ingeniería del Software 2021
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Se irá modificando conforme se vaya avanzando en las prácticas
 
-### Markdown
+Sesión | Descripción | Link | Detalles
+------ | ----------- | ---- | --------
+Sesión 1 | Crear una máquina virtal en Azure | | La máquina ha sido borrada por un gasto innecesario para mantener una IP estática
+Sesión 2 | 1. Crear un Repositorio en Github | [hmis21-repo01](https://github.com/jri838/hmis21-repo01) | El repositorio contiene solo un archivo Readme
+ | 2. Crear una Página personal en GitHub Pages | [jri838.github.io](https://jri838.github.io/) | Esta misma página, aunque aun no he conseguido cambiarle el comentario
+ | 3. Realizar un Pull Request | [ualhmis.github.io](https://github.com/jri838/ualhmis.github.io) | He realizado un nuevo Pull Request para incluir la página actual
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jri838/jri838.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
