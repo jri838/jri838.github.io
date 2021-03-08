@@ -4,7 +4,7 @@ Esta es la página de progreso de prácticas de Herramientas y Métodos de la In
 
 Se irá modificando conforme se vaya avanzando en las prácticas
 
-*Sesión* | *Descripción* | *Link* | *Detalles*
+**Sesión** | **Descripción** | **Link** | **Detalles**
 ------ | ----------- | ---- | --------
 Sesión 1 | Crear una máquina virtal en Azure | | La máquina ha sido borrada por un gasto innecesario para mantener una IP estática
 Sesión 2 | 1. Crear un Repositorio en Github | [hmis21-repo01](https://github.com/jri838/hmis21-repo01) | El repositorio contiene solo un archivo Readme
