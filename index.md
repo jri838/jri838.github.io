@@ -13,3 +13,5 @@ Sesión 2 | 1. Crear un Repositorio en Github | [hmis21-repo01](https://github.c
 Sesión 3 | 1. Crear una máquina virtual de Gitlab | [Gitlab](https://gitlabgmr.eastus.cloudapp.azure.com/) | He pasado a https la conexión, y ya que no se va a generar ningún usuario nuevo, he descartado la conexión con el servicio de correo
  | 2. Crear una máquna virtual de Jenkins | [Jenkins](http://jenkinsgmr.eastus.cloudapp.azure.com/) | Se ha inicializado y securizado jenkins en la máquina virtual
  | 3. Crear una máquina virtual de SonarQube | [SonarQube](https://sonargmr.eastus.cloudapp.azure.com/) | He instalado la versión 8.7 de SonarQube usando una base de datos Postgresql y pasado a https la conexión
+
+Sesion 10 | 1. Crear clave GPG para GitHub | | Se ha probado en este mismo commit la firma
